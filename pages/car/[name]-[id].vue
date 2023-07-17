@@ -7,6 +7,5 @@
       <CarDetailAttributes />
       <CarDetailContact />
     </div>
-
   </div>
 </template>
